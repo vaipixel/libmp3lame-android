@@ -35,3 +35,7 @@ google-services.json
 .DS_Store
 
 obj/
+libs/
+shared/
+.vscode/
+.idea/
